@@ -38,7 +38,7 @@ Custom metrics such as F1-score, precision, or recall may be used for deeper ana
 2. python -m venv .venv
 3. source .venv/bin/activate   # On Windows: .venv\Scripts\activate
 3. pip install -r requirements.txt
-4. jupyter notebook attrition.ipynb '''
+4. jupyter notebook attrition.ipynb
 
 ### Sample Output Metrics
 Department Accuracy: 0.87  
